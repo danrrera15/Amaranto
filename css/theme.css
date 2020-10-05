@@ -1,0 +1,206 @@
+	
+.first{
+	background-image: url("../images/Recurso 73.png");
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-attachment: fixed;
+    background-position: center center;
+}
+
+nav.theme{
+	    background-color: #000000cc;
+    
+}
+
+img.logo{
+	    max-width: 135px;
+	        padding-left: 35px;
+}
+img.logoMovil{
+	
+    max-width: 135px;
+    padding-right: 50px;
+    position: relative;
+    left: 360px;
+}
+
+
+ul:not(.browser-default) {
+    padding-left: 10px !important;
+    list-style-type: none;
+    padding-right: 10px !important;
+}
+
+div.parallax_1{
+	background-image: url('../images/bk1.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	/*height: 500px;*/
+	position: relative;
+    overflow: hidden;
+    /*background: linear-gradient(to bottom, rgba(255,255,255,0) 0, #fff 100%);*/
+}
+
+div.parallax_2{
+	background-image: url('../images/Recurso 01.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	/*height: 500px;*/
+	position: relative;
+    overflow: hidden;
+    min-height: 400px;
+    /*background: linear-gradient(to bottom, rgba(255,255,255,0) 0, #fff 100%);*/
+}
+
+div.hr {
+    height: 1px;
+    border: 0;
+    background-color: grey;
+}
+
+p.previewDesc{
+	color: grey;
+	padding-top: 10px;
+    font-size: 12px;
+}
+
+.top3{
+	max-height: 210px;
+
+}
+
+h1.index1{
+	font-weight: 500;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 100px;
+    color: #9843bc;
+}
+
+h1.index2{
+	font-weight: 500;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 80px;
+    color: #c778d3;
+}
+
+h1.index3{
+	font-weight: 500;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 80px;
+    color: #c778d3;
+    margin-top: 50px;
+}
+h1.index4{
+	font-weight: 500;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 60px;
+    color: #9843bc;
+    margin-top: 50px;
+}
+
+h1.tienda1{
+	font-weight: 500;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 60px;
+    color: #9843bc;
+    margin-bottom: 50px;
+}
+
+a.comprar{
+	    background-color: #c778d3!important;
+    border-radius: 1px !important;
+    margin-bottom: 10px;
+}
+
+div.antecedentes{
+	position: relative;
+    top: -150px;
+    background-color: white;
+}
+
+div.vidAnte{
+	position: relative;
+    top: -85px;
+}
+
+div.product{
+	min-height: 350px;
+	max-height: 350px;
+}
+
+a.product{
+	    color: gray;
+}
+
+div.contact{
+	background-color: #eae8e8;
+	color:black;
+}
+
+input.contact{
+	background: white!important;
+    border: none!important;
+    border-radius: 8px!important;
+}
+textarea.contact{
+	background: white!important;
+    border: none!important;
+    border-radius: 8px!important;
+}
+
+a.login{
+	    color: black;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+input[type=text]:not(.browser-default):focus:not([readonly]){
+	 border-bottom: 1px solid #834a87!important;
+  -webkit-box-shadow: 0 1px 0 0 #834a87!important;
+          box-shadow: 0 1px 0 0 #834a87!important;
+}
+
+.input-field .prefix.active {
+  color: #834a87!important;
+}
+
+input[type=text]:not(.browser-default):focus:not([readonly]) + label{
+	color: #834a87!important;
+}
+
+.ModalOption{
+	display: none;
+}
+
+a.mayoreo{
+	margin-bottom: 15px;
+	background-color: #3a0847;
+}
+a.menudeo{
+	margin-bottom: 15px;
+	background-color: #c778d3;
+
+}
+
+h4.productos{
+	    font-size: 25px;
+    margin-bottom: 30px;
+}
+
+/*div.filters{
+    border-width: 1px;
+    border-style: solid;
+    border-left: none;
+    border-bottom: none;
+    border-top: none;
+}*/
+
+.card{
+	max-height: 450px!important;
+    min-height: 450px!important;
+}
